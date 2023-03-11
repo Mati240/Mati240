@@ -14,3 +14,12 @@ Organizer of CSS Community Dev, and CSS Conf Colombia.
 4. Creando una cuenta de GitHub
 5. Instalación de Node.js y Yarn
 
+# Estos son los 5 comandos
+| comando |        Descrpicion         |
+|---------|----------------------------|
+| ls      |  lista el contenido        |
+| cd      |  cambiar entre directorios |
+| yarn    | instalar dependecias       |
+| gst     | alias de git status        |
+| clear   | limpiar la terminal        |
+| alias   | listar los alias           |
